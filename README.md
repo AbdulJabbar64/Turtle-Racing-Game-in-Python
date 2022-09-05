@@ -19,3 +19,11 @@ We'll also add a background image (roads with lanes for the turtles to race in) 
 Then we'll compute different values along the vertical or Y-axis to define their starting locations.
 
 Finally, we will prompt the user to enter their bet (turtle color) so that if a user's bet color matches our winner turtle's color, we will display Winner! on the screen. Otherwise, we'll display You Lost! on the screen.
+
+<!-- 📂  -->
+# How to Use the Turtle Library
+Now, let's go to [turtle-graphics python documentation](https://docs.python.org/3/library/turtle.html). Here you will find the full details about this library.
+
+Let's scroll down and go to the Turtle methods section. You will see different types of methods that we can use for many different purposes. We will use a few of them in our current project.
+
+I recommend reading this documentation at least once before jumping into the code. But don't worry, I will simplify it for you while we're writing the program.
