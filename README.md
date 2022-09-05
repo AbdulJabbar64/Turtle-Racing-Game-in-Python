@@ -27,3 +27,10 @@ Now, let's go to [turtle-graphics python documentation](https://docs.python.org/
 Let's scroll down and go to the Turtle methods section. You will see different types of methods that we can use for many different purposes. We will use a few of them in our current project.
 
 I recommend reading this documentation at least once before jumping into the code. But don't worry, I will simplify it for you while we're writing the program.
+
+# Demo
+
+https://user-images.githubusercontent.com/49620759/188498884-d33d5245-c32d-4312-9b3a-79f8481b6946.mp4
+
+<!-- ![](https://github.com/AbdulJabbar64/Turtle-Racing-Game-in-Python/blob/main/Demo/Turtle_game.mp4) -->
+<!--  <video src='https://github.com/AbdulJabbar64/Turtle-Racing-Game-in-Python/blob/main/Demo/Turtle_game.mp4' width=180/> -->
